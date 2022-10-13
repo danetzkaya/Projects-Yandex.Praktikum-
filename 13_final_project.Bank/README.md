@@ -32,6 +32,3 @@
 pandas, numpy, seaborn, matplotlib, plotly, stats
 
 
-```python
-
-```
